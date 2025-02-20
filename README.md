@@ -4,20 +4,29 @@
 
 “ A framework for balancing security and speed in CI/CD pipelines. A Shift-Left DevSecOps Approach.”
 
-## Project Goals
+## 🚀 Project Overview
 
-This project aims to address these gaps by developing a security-centric CI/CD pipeline model that integrates security practices from the outset, following a "shift-left" strategy as proposed by the DevSecOps movement. By embedding automated security tests at each stage of the development process, the project seeks to provide real-time feedback to developers, reduce vulnerability remediation costs, and minimize security risks, resulting in a more efficient and secure CI/CD pipeline (Gartner, 2018; Swanson, 2021).
+This repository contains a secure CI/CD pipeline setup for the OWASP Juice Shop application, focusing on DevSecOps principles. The pipeline ensures security at every phase of the software development lifecycle (SDLC).
 
-## Project Phases
+## 📌 Features
 
-The project is divided into five phases, each focusing on a specific aspect of the CI/CD pipeline:
+- **Secure CI/CD Pipeline**: Implements best security practices in the CI/CD process.
+- **Security Analysis**: Integrates security testing tools to identify vulnerabilities.
+- **Azure DevOps Integration**: Uses Azure Pipelines for automated builds, testing, and deployment.
+- **Documentation**: Step-by-step guides for setting up and securing the pipeline.
 
-1. [**Phase 1: Setup**](docs/Phase1-Setup.md) - Setting Up the CI/CD Environment
-2. [**Phase 2: Security**](docs/Phase2-Security.md) - Implementing automated security testing in the CI/CD pipeline.
-3. [**Phase 3: Framework**](docs/Phase3-Framework.md) - Designing a secure CI/CD pipeline framework.
-4. [**Phase 4: Implementation**](docs/Phase4-Implementation.md) - Integrating security tools and practices into the CI/CD pipeline.
-5. [**Phase 5: Evaluation**](docs/Phase5-Evaluation.md) - Evaluating the effectiveness of the secure CI/CD pipeline model.
+## Project Phases (5-phases)
 
+Refer to the `docs/` directory for detailed phase-wise documentation:
+
+- **[Phase 1: Setup](docs/Phase1-Setup.md)** – Initial setup and configurations.
+- **[Phase 2: Security](docs/Phase2-Security.md)** – Security testing and analysis.
+- **[Phase 3: Framework](docs/Phase3-Framework.md)** – Design and architecture.
+- **[Phase 4: Implementation](docs/Phase4-Implementation.md)** – CI/CD pipeline implementation.
+- **[Phase 5: Evaluation](docs/Phase5-Evaluation.md)** – Performance and security assessments.
+- **[Phase 6: Conclusion](docs/Phase6-Conclusion.md)** – Final remarks and future work.
+- **[Phase 7: References](docs/Phase7-References.md)** – Citations and resources.
+  
 ## Folder Structure
 
 The project is organized into the following folders:
