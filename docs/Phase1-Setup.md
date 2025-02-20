@@ -8,8 +8,8 @@ Phase 1 focuses on setting up the **CI/CD environment** to support secure DevOps
 
 ### **Goal of Phase 1**
 
-✅ Establish a working **CI/CD pipeline** using **Azure DevOps** and **GitHub** before adding security automation.
-✅ Automate builds and tests for the **OWASP Juice Shop** vulnerable web application.
+- ✅ Establish a working **CI/CD pipeline** using **Azure DevOps** and **GitHub** before adding security automation.
+- ✅ Automate builds and tests for the **OWASP Juice Shop** vulnerable web application.
 
 ---
 
@@ -103,16 +103,16 @@ Phase 1 focuses on setting up the **CI/CD environment** to support secure DevOps
 
 ## **6️⃣ Summary of Phase 1**
 
-✅ **Successfully set up** Azure DevOps and GitHub.
-✅ **Created and tested** a working CI/CD pipeline.
-✅ **Automated build & test execution** for Juice Shop.
+- ✅ **Successfully set up** Azure DevOps and GitHub.
+- ✅ **Created and tested** a working CI/CD pipeline.
+- ✅ **Automated build & test execution** for Juice Shop.
 
 ---
 
 ## **📂 Where to Document This?**
 
-✅ **GitHub Repository** → Add this README.md file.
-✅ **Final Project Report** → Include this documentation under "Phase 1: CI/CD Setup".
+- ✅ **GitHub Repository** → Add this README.md file.
+- ✅ **Final Project Report** → Include this documentation under "Phase 1: CI/CD Setup".
 
 ---
 
@@ -126,6 +126,6 @@ Phase 1 focuses on setting up the **CI/CD environment** to support secure DevOps
 
 ## **📌 Next Steps (Phase 2 Preview)**
 
-🔜 **Security Scanning** → Integrate security tools like **OWASP ZAP, SonarQube, and Trivy**.
-🔜 **Security Gap Analysis** → Identify security weaknesses in the pipeline using **OWASP ZAP, Snyk, and Checkmarx**.
-🔜 **Optimization** → Improve pipeline efficiency by **parallelizing tasks** and **reducing build times**.
+- 🔜 **Security Scanning** → Integrate security tools like **OWASP ZAP, SonarQube, and Trivy**.
+- 🔜 **Security Gap Analysis** → Identify security weaknesses in the pipeline using **OWASP ZAP, Snyk, and Checkmarx**.
+- 🔜 **Optimization** → Improve pipeline efficiency by **parallelizing tasks** and **reducing build times**.
