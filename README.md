@@ -1,4 +1,4 @@
-# Secure CI/CD Pipeline for OWASP Juice Shop - Final Year Project
+# Final Year Project
 
 ## Project Title
 
