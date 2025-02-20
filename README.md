@@ -40,7 +40,7 @@ The project is organized into the following folders:
 
 ## Getting Started
 
-- Clone the repository:
+1. Clone the repository:
   
   ```bash
   git clone https://github.com/your-username/secure-juice-shop-ci-cd.git
@@ -48,8 +48,12 @@ The project is organized into the following folders:
     cd secure-juice-shop-ci-cd
     ```
 
-- Follow the instructions in the [Phase 1: Setup](docs/Phase1-Setup.md) document to set up the CI/CD environment.
-- Proceed with the subsequent phases to implement and evaluate the security-centric CI/CD pipeline model.
-- Refer to the [README.md](juice-shop/README.md) file in the `juice-shop` folder for more information on the OWASP Juice Shop project.
-- For any questions or feedback, please raise an issue in the repository.
-- 🛡️Happy coding! 🚀
+2. Follow the instructions in the [Phase 1: Setup](docs/Phase1-Setup.md) document to set up the CI/CD environment.
+3. Proceed with the subsequent phases to implement and evaluate the security-centric CI/CD pipeline model.
+4. Refer to the [README.md](juice-shop/README.md) file in the `juice-shop` folder for more information on the OWASP Juice Shop project.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request or open an issue for discussions.
+
+## 📧 Contact
+For queries or support, reach out via [my email](ronney.otieno@studentambassadors.com).
