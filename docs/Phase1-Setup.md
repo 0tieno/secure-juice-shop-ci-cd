@@ -79,6 +79,7 @@ Phase 1 focuses on setting up the **CI/CD environment** to support secure DevOps
 5. Verify that the pipeline **executes successfully**.
 ![image](https://github.com/user-attachments/assets/784b1bda-87ba-44c8-9dd2-378805cc44ee)
 
+![image](https://github.com/user-attachments/assets/c943436a-5566-4e27-aec9-d81e9dc6dc6b)
 
 ---
 
