@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/RONNEYOTIENO/Secure-Juice-Shop-CI-CD/_apis/build/status/0tieno.secure-juice-shop-ci-cd?branchName=main)](https://dev.azure.com/RONNEYOTIENO/Secure-Juice-Shop-CI-CD/_build/latest?definitionId=5&branchName=main)
+[![Build Status](https://dev.azure.com/RONNEYOTIENO/Secure-Juice-Shop-CI-CD/_apis/build/status%2F0tieno.secure-juice-shop-ci-cd?branchName=main)](https://dev.azure.com/RONNEYOTIENO/Secure-Juice-Shop-CI-CD/_build/latest?definitionId=5&branchName=main)
 
 
 # Final Year Project
