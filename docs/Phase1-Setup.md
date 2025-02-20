@@ -77,6 +77,8 @@ Phase 1 focuses on setting up the **CI/CD environment** to support secure DevOps
 
 4. Click **Save and Run**.
 5. Verify that the pipeline **executes successfully**.
+![image](https://github.com/user-attachments/assets/784b1bda-87ba-44c8-9dd2-378805cc44ee)
+
 
 ---
 
