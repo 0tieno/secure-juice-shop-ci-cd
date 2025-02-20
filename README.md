@@ -22,19 +22,21 @@ The project is divided into five phases, each focusing on a specific aspect of t
 
 The project is organized into the following folders:
 
-📦 secure-juice-shop-ci-cd
- ┣ 📂 .github/workflows      # GitHub Actions (if needed in future)
- ┣ 📂 azure-pipelines        # Azure DevOps pipeline YAML files
- ┣ 📂 docs                   # Documentation files
- ┃ ┣ 📜 Phase1-Setup.md      # Detailed setup for Phase 1
- ┃ ┣ 📜 Phase2-Security.md   # Security analysis findings
- ┃ ┣ 📜 Phase3-Framework.md  # Design of secure CI/CD pipeline
- ┃ ┣ 📜 Phase4-Implementation.md  # Implementation details
- ┃ ┣ 📜 Phase5-Evaluation.md # Performance evaluation results
- ┣ 📂 juice-shop             # Cloned OWASP Juice Shop project
- ┣ 📜 README.md              # Main project overview
- ┣ 📜 azure-pipelines.yml    # Azure DevOps pipeline config
- ┗ 📜 LICENSE                # (If needed)
+```bash
+    📦 secure-juice-shop-ci-cd
+     ┣ 📂 .github/workflows      # GitHub Actions (if needed in future)
+     ┣ 📂 azure-pipelines        # Azure DevOps pipeline YAML files
+     ┣ 📂 docs                   # Documentation files
+     ┃ ┣ 📜 Phase1-Setup.md      # Detailed setup for Phase 1
+     ┃ ┣ 📜 Phase2-Security.md   # Security analysis findings
+     ┃ ┣ 📜 Phase3-Framework.md  # Design of secure CI/CD pipeline
+     ┃ ┣ 📜 Phase4-Implementation.md  # Implementation details
+     ┃ ┣ 📜 Phase5-Evaluation.md # Performance evaluation results
+     ┣ 📂 juice-shop             # Cloned OWASP Juice Shop project
+     ┣ 📜 README.md              # Main project overview
+     ┣ 📜 azure-pipelines.yml    # Azure DevOps pipeline config
+     ┗ 📜 LICENSE                # (If needed)
+```
 
 ## Getting Started
 
