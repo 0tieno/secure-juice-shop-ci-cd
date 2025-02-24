@@ -13,9 +13,9 @@ steps:
   
   - script: |
       cd juice-shop
+      npm install -g typescript@5.0.4  # Adjust this version if needed
       npm install
-      npm run build
-    displayName: 'Install Dependencies & Build'
+    displayName: 'Install Dependencies'
 
   - task: ArchiveFiles@2
     inputs:
