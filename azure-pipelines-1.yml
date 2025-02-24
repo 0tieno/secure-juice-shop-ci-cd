@@ -12,6 +12,7 @@ steps:
       version: '18.x'
   
   - script: |
+      cd juice-shop
       npm install
       npm run build
     displayName: 'Install Dependencies & Build'
