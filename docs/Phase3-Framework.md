@@ -46,9 +46,7 @@ Security scans should not slow down development. Strategies to improve performan
 
 ## **5️⃣ Secure CI/CD Framework Architecture**
 
-To illustrate the security integration in the CI/CD pipeline, the following flowchart should be included:
-
-📌 **[Insert Flowchart Here]**
+Illustrating the security integration in the CI/CD pipeline,
 
 <img src="https://github.com/user-attachments/assets/552ba918-b1a4-48fa-ad1c-dd053f4204a5" width="1200"/>
 
@@ -64,5 +62,5 @@ The flowchart explained:
 
 By designing a CI/CD pipeline with security at every stage, we ensure a balance between protection and performance. This framework will be used in the next phase (**Implementation**) to configure automated security integrations.
 
-📍 **Next Step: Implementing Secure CI/CD Practices**
+**Next Step: Implementing Secure CI/CD Practices**
 
