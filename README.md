@@ -27,7 +27,7 @@ Refer to the `docs/` directory for detailed phase-wise documentation:
 - **[Phase 3: Framework](docs/Phase3-Framework.md)** – Design and architecture.
 - **[Phase 4: Implementation](docs/Phase4-Implementation.md)** – CI/CD pipeline implementation.
 - **[Phase 5: Evaluation](docs/Phase5-Evaluation.md)** – Performance and security assessments.
-- **[Phase 6: Conclusion](docs/Phase6-Conclusion.md)** – Final remarks and future work.
+- **[Phase 6: Conclusion](docs/summary.md)** – Final remarks and future work.
 - **[Phase 7: References](docs/Phase7-References.md)** – Citations and resources.
   
 ## Folder Structure
