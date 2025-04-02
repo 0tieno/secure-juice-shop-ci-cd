@@ -45,6 +45,10 @@ Microsoft Defender for DevOps Security Vulnerability scans
 
 
 
-**Date Evaluated**: April 2, 2025  
 **Live App**: [https://juice-shop-yr4-hsadgedxccamawcc.southafricanorth-01.azurewebsites.net](https://juice-shop-yr4-hsadgedxccamawcc.southafricanorth-01.azurewebsites.net)  
+
+
+![image](https://github.com/user-attachments/assets/0791e9e3-d843-4431-afb9-61cfabbd2d76)
+
+**Date Evaluated**: April 2, 2025  
 **ACR Images**: `juiceshopacr.azurecr.io/juice-shop:before`, `juiceshopacr.azurecr.io/juice-shop:latest`
