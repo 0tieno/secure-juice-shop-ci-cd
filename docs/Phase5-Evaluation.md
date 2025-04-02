@@ -1,11 +1,11 @@
 # Phase 5: Evaluating Effectiveness
 
 ## Goal
-Measure how well the optimized pipeline balances security and speed.
+To measure how well the optimized pipeline balances security and speed.
 
 ## Steps
 
-### 1. Compare Build Times Before and After Security Checks
+### 1. Comparison Between Build Times Before and After Security Checks
 - **"Before" Pipeline**: No security checks, only dependency updates, build, and push.
   - YAML: `azure-pipelines-before.yml`
   - Total Time: [e.g., 2m 15s] (from Azure DevOps logs).
@@ -15,7 +15,7 @@ Measure how well the optimized pipeline balances security and speed.
   - Trivy Step Time: [30s - 60s] (from "Scan Image with Trivy" step).
 - **Difference**: [30s] added by security checks.
 
-### 2. Count Vulnerabilities Detected Before Deployment
+### 2. Vulnerabilities Detected Before Deployment
 - **Before**: 0 vulnerabilities (no scanning).
 - **After**: 
   - Trivy detected 11 HIGH vulnerabilities (hardcoded private key in `juice-shop/lib/insecurity.ts`).
@@ -25,7 +25,7 @@ Measure how well the optimized pipeline balances security and speed.
 
 - **Improvement**: Security scanning identifies issues pre-deployment.
 
-### 3. Gather Insights from Logs and Reports
+### 3. Gathered Insights from Logs and Reports
 - **Logs**:
   - "Before": Successful build and push, no security visibility.
   - "After": Trivy logs show a HIGH-severity secret, proving security automation works.
