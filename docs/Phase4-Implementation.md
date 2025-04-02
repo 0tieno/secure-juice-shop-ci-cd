@@ -84,3 +84,21 @@ steps:
       repository: 'juice-shop'
       command: 'push'
       tags: 'latest'
+```
+
+The pipeline fails when HIGH & CRITICAL vulnerabilities are detected in the application
+
+![image](https://github.com/user-attachments/assets/bf8e1b81-bb15-403c-9109-ef8d6e76fcfe)
+
+![image](https://github.com/user-attachments/assets/b07c1a6e-8c5f-428a-867b-11bceda172d6)
+
+
+Scan Results for the failed pipeline:
+
+![image](https://github.com/user-attachments/assets/64636e88-4992-4a86-a90d-9c393860ac04)
+
+
+### SUCCESSFUL SECURITY OPTIMIZED PIPELINE - PROOF OF CONCEPT
+
+![image](https://github.com/user-attachments/assets/ada9b678-0e7a-4b2b-afcb-bafe50550921)
+
