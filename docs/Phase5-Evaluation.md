@@ -18,8 +18,11 @@ Measure how well the optimized pipeline balances security and speed.
 ### 2. Count Vulnerabilities Detected Before Deployment
 - **Before**: 0 vulnerabilities (no scanning).
 - **After**: 
-  - Trivy detected 11 HIGH vulnerability (hardcoded private key in `juice-shop/lib/insecurity.ts`).
-  - Full scan (optional): [e.g., 20 LOW, 10 MEDIUM, 1 HIGH] if run without severity filter.
+  - Trivy detected 11 HIGH vulnerabilities (hardcoded private key in `juice-shop/lib/insecurity.ts`).
+  - Full scan: [20 LOW, 10 MEDIUM, 11 HIGH] if run without severity filter.
+    
+    ![Screenshot 2025-04-01 171531](https://github.com/user-attachments/assets/f6acd18a-d662-49eb-a8dc-698efb09a73d)
+
 - **Improvement**: Security scanning identifies issues pre-deployment.
 
 ### 3. Gather Insights from Logs and Reports
@@ -33,6 +36,14 @@ Measure how well the optimized pipeline balances security and speed.
 - **Security Improved**: Trivy detects at least 1 HIGH vulnerability, vs. 0 in the "before" state.
 - **Speed Impact**: Security checks add [a30s] to a [2m 45s] pipeline, a ~20% increase—acceptable for a PoC.
 - **Outcome**: The pipeline balances security and speed effectively, meeting Phase 5 goals.
+
+Microsoft Defender for DevOps Security Vulnerability scans
+
+![image](https://github.com/user-attachments/assets/a035799b-869f-4eed-80a7-5d2c94a5bb3a)
+
+![image](https://github.com/user-attachments/assets/fe96682b-e672-471c-abc4-0e5c49a9b171)
+
+
 
 **Date Evaluated**: April 2, 2025  
 **Live App**: [https://juice-shop-yr4-hsadgedxccamawcc.southafricanorth-01.azurewebsites.net](https://juice-shop-yr4-hsadgedxccamawcc.southafricanorth-01.azurewebsites.net)  
