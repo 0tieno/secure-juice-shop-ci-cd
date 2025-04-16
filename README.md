@@ -7,11 +7,11 @@
 
 “ A framework for balancing security and speed in CI/CD pipelines. A Shift-Left DevSecOps Approach.”
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository contains a secure CI/CD pipeline setup for the OWASP Juice Shop application, focusing on DevSecOps principles. The pipeline ensures security at every phase of the software development lifecycle (SDLC).
 
-## 📌 Features
+## Features
 
 - **Secure CI/CD Pipeline**: Implements best security practices in the CI/CD process.
 - **Security Analysis**: Integrates security testing tools to identify vulnerabilities.
