@@ -112,13 +112,6 @@ Phase 1 focuses on setting up the **CI/CD environment** to support secure DevOps
 
 ---
 
-## **📂 Where to Document This?**
-
-- ✅ **GitHub Repository** → Add this README.md file.
-- ✅ **Final Project Report** → Include this documentation under "Phase 1: CI/CD Setup".
-
----
-
 ## **🎯 Why Is This Important?**
 
 - 📌 Ensures **continuous integration** by automatically testing code changes.
